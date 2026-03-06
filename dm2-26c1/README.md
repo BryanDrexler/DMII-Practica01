@@ -339,9 +339,9 @@ Completar la sección de evidencia al final de este README y hacer el commit fin
 ### Fotos / capturas
 
 - [ ] Foto del circuito LED+R en breadboard
-![Circuito LED en Breadboard](images/circuito_Led.jpg)
+![Circuito LED en Breadboard](../images/circuito_Led.jpeg)
 - [ ] Captura del osciloscopio (señal cuadrada del blink)
-![Señal del Osciloscopio](images/osciloscopio.png)
+![Señal del Osciloscopio](../images/osciloscopio.jpeg)
 
 
 ---
